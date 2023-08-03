@@ -1,0 +1,4 @@
+1. Go to Zomato app.
+2. Login
+3. Search Food-Biryani
+4. Order!
